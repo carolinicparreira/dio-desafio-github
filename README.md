@@ -1,2 +1,4 @@
 # dio-desafio-github
-Desafio de projeto, criando meu primeiro repositório no github.
+Bootcamp Spread Java Developer. 
+
+Primeiro desafio de projeto prático, criando meu primeiro repositório no github.
